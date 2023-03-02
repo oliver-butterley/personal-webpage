@@ -5,9 +5,7 @@ This site is live at <https://oliver-butterley.github.io/> and <https://mat.unir
 ## Architecture
 
 This is a  [Jekyll] site. It is built and published on [GitHub Pages] using the [Jekyll workflow]. 
-Uses:
-- [`jekyll-seo-tag`] plugin
-- [`minima`] theme
+Style is provided by the [`minima`] theme.
 
 ## Building and previewing the site locally
 
