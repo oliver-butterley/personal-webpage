@@ -12,7 +12,7 @@ author:
   email: "butterley@mat.uniroma2.it"
 theme: minima
 minima:
-  skin: dark
+  skin: classic
   social_links:
     - { platform: github,  user_url: "https://github.com/oliver-butterley" }
     - { platform: google_scholar, user_url: "https://scholar.google.it/citations?user=GcZp0pgAAAAJ" }
