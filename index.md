@@ -6,15 +6,12 @@ nav_order: 1
 
 ## Research interests
 
-I work in the field of dynamical systems. Most of my research is focussed on the statistical properties of chaotic dynamical systems, particularly the use of functional analytic techniques to investigate these properties and understanding these properties for continuous time dynamical systems. (Research articles.)
+I work in the field of dynamical systems. Most of my research is focussed on the statistical properties of chaotic dynamical systems, particularly the use of functional analytic techniques to investigate these properties and understanding these properties for continuous time dynamical systems.
+See my [research articles](publications). 
 
 ## Position
 
-I am currently associate professor in the [mathematics department](https://www.mat.uniroma2.it/) of the University of Rome Tor Vergata.
-
-## Generally
-
-I believe there is a need to assess research on its own merits rather than on the basis of the journal in which the research is published, etc. and so support the [Declaration on Research Assessment](https://sfdora.org/).
+I am currently associate professor in the [mathematics department](https://www.mat.uniroma2.it/) of the University of Rome Tor Vergata (in the [mathematical physics](https://www.mat.uniroma2.it/~ricerca/fismat/area.php) group).
 
 ## Past positions
 
@@ -24,3 +21,7 @@ I was a postdoc at the University of Vienna under the supervision of Henk Bruin.
 
 I was a postdoc in the [Mathematics section of ICTP](http://www.ictp.it/research/math.aspx).
 Then I was a ricercatore (RTD-B) in the mathematics department of Roma II (Tor Vergata). 
+
+## Generally
+
+I believe there is a need to assess research on its own merits rather than on the basis of the journal in which the research is published, etc., and so I support the [Declaration on Research Assessment](https://sfdora.org/).
