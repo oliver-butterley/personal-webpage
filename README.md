@@ -15,6 +15,12 @@ Assuming [Jekyll] and [Bundler] are installed:
 2.  Run `bundle install`.
 3.  Run `bundle exec jekyll serve` to build and preview the site.
 
+## Deploy site to server by `rsync` over `ssh`
+
+1. Create a key pair `ssh-keygen -m PEM -t rsa -b 4096`
+2. Upload private key as `secrets.SERVER_SSH_KEY` on github
+3. Copy public key to server using `ssh-copy-id` with username and host
+
 [github-pages]: https://docs.github.com/en/pages
 [Jekyll]: https://jekyllrb.com
 [Bundler]: https://bundler.io
