@@ -1,6 +1,6 @@
 # Personal webpage of Oliver Butterley
 
-This site is live at <https://oliver-butterley.github.io/> and <https://mat.uniroma2.it>.
+This site is live at <https://oliver-butterley.github.io/> and <https://mat.uniroma2.it/butterley/>.
 
 ## Architecture
 
