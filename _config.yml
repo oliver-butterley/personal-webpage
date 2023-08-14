@@ -1,0 +1,18 @@
+title: Oliver Butterley
+email: butterley@mat.uniroma2.it
+description: >- 
+  Personal page of Oliver Butterley - Associate professor of mathematics - University of Rome Tor Vergata.
+# baseurl: "/butterley" 
+baseurl: ""
+url: "" # the base hostname & protocol
+# url: "https://www.mat.uniroma2.it" 
+author:
+  name: Oliver Butterley
+  email: "butterley@mat.uniroma2.it"
+theme: minima
+minima:
+  skin: classic
+  social_links:
+    - { platform: github,  user_url: "https://github.com/oliver-butterley" }
+    - { platform: google_scholar, user_url: "https://scholar.google.it/citations?user=GcZp0pgAAAAJ" }
+    - { platform: arxiv, user_url: "https://arxiv.org/a/butterley_o_1.html" }
