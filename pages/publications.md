@@ -9,7 +9,7 @@ last_modified_date: 2023-02-25
 
 View these articles on 
 [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&amp;s1=805760), 
-the [arXiv](http://arxiv.org/a/butterley_o_1)
+the [arXiv](https://arxiv.org/a/butterley_o_1.html)
 or 
 [Google Scholar](https://scholar.google.it/citations?user=GcZp0pgAAAAJ).
 
