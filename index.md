@@ -7,7 +7,7 @@ nav_order: 1
 ## Research interests
 
 I work in the field of dynamical systems. Most of my research is focussed on the statistical properties of chaotic dynamical systems, particularly the use of functional analytic techniques to investigate these properties and understanding these properties for continuous time dynamical systems.
-See my [research articles](publications). 
+See my [research articles](publications/). 
 
 ## Position
 
@@ -17,17 +17,17 @@ I'm an associate professor in the [mathematics department](https://www.mat.uniro
 
 ## Mini-biography
 
-I received my PhD from Imperial College London under the supervision of [Stefano Luzzatto](http://stefanoluzzatto.net/). I was a postdoc at UFRJ, Rio de Janeiro under the supervision of Vítor Araújo. Following that I was a postdoc member of the MALADY team at Roma II, Tor Vergata under the supervision of [Carlangelo Liverani](http://www.mat.uniroma2.it/~liverani/).
+I received my PhD from Imperial College London under the supervision of [Stefano Luzzatto](https://stefanoluzzatto.net/). I was a postdoc at UFRJ, Rio de Janeiro under the supervision of Vítor Araújo. Following that I was a postdoc member of the MALADY team at Roma II, Tor Vergata under the supervision of [Carlangelo Liverani](http://www.mat.uniroma2.it/~liverani/).
 
 I was a postdoc at the University of Vienna under the supervision of Henk Bruin. Following that I was a FWF Lise Meitner postdoc at the University of Vienna, project leader of “Statistical Properties of Physical Chaotic Flows” and a member of the Ergodic Theory and Dynamical Systems group. 
 
-I was a postdoc in the [Mathematics section of ICTP](http://www.ictp.it/research/math.aspx).
+I was a postdoc in the [Mathematics section of ICTP](http://www.ictp.it/research/math).
 Then I was a ricercatore (RTD-B) in the mathematics department of Roma II (Tor Vergata). 
 
 ## Contact
 
 - Email: [butterley@mat.uniroma2.it](mailto:butterley@mat.uniroma2.it)
-- PGP public key: [`C55B F415 F5EA 3349 15D1 859E 8C65 33A3 CCC0 6CB8`](../keys/0x8C6533A3CCC06CB8.asc)
+- PGP public key: [`C55B F415 F5EA 3349 15D1 859E 8C65 33A3 CCC0 6CB8`](/keys/0x8C6533A3CCC06CB8.asc)
 - Address: Dipartimento di Matematica, Via della Ricerca Scientifica 1, I-00133 Roma, Italy
 - Office: 0203 (Dipartimento di matematica)
 
