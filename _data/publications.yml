@@ -1,90 +1,95 @@
+- title: Exponential mixing for singular skew-products
+  link: singular-skew.pdf
+  journal-ref: Preprint
+  year: 2023
+
 - title: Anisotropic spaces and nilmanifold automorphisms
   link: nil-auto.pdf
   journal-ref: Preprint
   year: 2023
   authors: (with Minsung Kim)
   
-- title: Discontinuities Cause Essential Spectrum on Surfaces
+- title: Discontinuities cause essential spectrum on surfaces
   link: 2DJumps.pdf
   journal-ref: Preprint
   year: 2023
   authors: (with Giovanni Canestrari and Roberto Castorrini)
   
-- title: Discontinuities Cause Essential Spectrum
+- title: Discontinuities cause essential spectrum
   link: BCJ22.pdf
   journal-ref: Commun. Math. Phys., 398, 627-653
   year: 2022
   authors: (with Giovanni Canestrari and Sakshi Jain)
 
-- title: Locating Ruelle-Pollicott Resonances
+- title: Locating Ruelle-Pollicott resonances
   link: BKL22.pdf
   journal-ref: Nonlinearity, Volume 35, Number 1, 513
   year: 2022
   authors: (with Niloofar Kiamari and Carlangelo Liverani)
 
-- title: Parabolic Flows Renormalized by Partially Hyperbolic Maps
+- title: Parabolic flows renormalized by partially hyperbolic maps
   link: BS20.pdf
   journal-ref: Boll. Unione Mat. Ital. 13, 341-360
   year: 2020
   authors: (with Lucia D. Simonelli)
 
-- title: Polynomial Decay of Correlations for Flows, Including Lorentz Gas Examples
+- title: Polynomial decay of correlations for flows, including Lorentz gas examples
   link: BBM19.pdf
   journal-ref: Commun. Math. Phys. 368, 55-111
   year: 2019
   authors: (with Péter Bálint and Ian Melbourne)
 
-- title: Open Sets of Exponentially Mixing Anosov Flows
+- title: Open sets of exponentially mixing Anosov flows
   link: BW20.pdf
   journal-ref: J. Eur. Math. Soc., 22, 2253-2285
   year: 2020
   authors: (with Khadim War)
 
-- title: Disintegration of Invariant Measures for Hyperbolic Skew Products
+- title: Disintegration of invariant measures for hyperbolic skew products
   link: BM17.pdf
   authors: (with Ian Melbourne)
   journal-ref: Israel J. Math. 219, 171-188
   year: 2017
 
-- title: Exponential Mixing for Skew Products with Discontinuities
+- title: Exponential mixing for skew products with discontinuities
   link: BE17.pdf
   authors: (with Peyman Eslami)
   journal-ref: Trans. Amer. Math. Soc., 369, 783-803
   year: 2017
 
-- title: A Note on Operator Semigroups Associated to Chaotic Flows
+- title: A note on operator semigroups associated to chaotic flows
   link: Butterley16.pdf
   journal-ref: Ergod. Th. &amp; Dynam. Sys., 36, 1396-1408
   year: "2016 (Corrigendum: 36, 1409-1410, 2016)"
 
-- title: Open Sets of Axiom A Flows with Exponentially Mixing Attractors
+- title: Open sets of axiom A flows with exponentially mixing attractors
   link: ABV16.pdf
   authors: (with Vítor Araújo, Paulo Varandas)
   journal-ref: Proc. Amer. Math. Soc., 144, 2971-2984
   year: "2016 (Corrigendum: 146, 5013-5014)"
 
-- title: Robustly Invariant Sets in Fiber Contracting Bundle Flows
+- title: Robustly invariant Sets in fiber contracting bundle flows
   link: BL13.pdf
   authors: (with Carlangelo Liverani)
   journal-ref: J. Mod. Dyn., 7, 255-267
   year: 2013
 
-- title: Area Expanding $$\mathcal{C}^{1+\alpha}$$ Suspension Semiflows
+- title: Area expanding $$\mathcal{C}^{1+\alpha}$$ suspension semiflows
   link: Butterley13b.pdf
   journal-ref: Commun. Math. Phys., 325, 803-820
   year: 2013
 
-- title: Expanding Semiflows on Branched Surfaces and One-Parameter Semigroups of Operators
+- title: Expanding semiflows on branched surfaces and one-parameter semigroups of operators
   link: Butterley12.pdf
   journal-ref: Nonlinearity 25, 3487-3503
   year: 2012
 
-- title: An Alternative Approach to Generalised BV and the Application to Expanding Interval Maps
+- title: An alternative approach to generalised BV and the application to expanding interval maps
   link: Butterley13a.pdf
   journal-ref: Discrete Contin. Dyn. Syst., 33, 3355-3363
   year: 2013
 
-- title: "Smooth Anosov Flows: Correlation Spectra and Stability"
+- title: "Smooth Anosov flows: correlation spectra and stability"
   link: BL07.pdf
   authors: (with Carlangelo Liverani)
   journal-ref: J. Mod. Dyn., 1, 301-322
