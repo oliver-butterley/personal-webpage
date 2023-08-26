@@ -16,7 +16,7 @@ or
 ## Research articles
 
 {% for publication in site.data.publications %}
-- [{{ publication.title }}](../articles/{{ publication.link }}) {{ publication.authors }}. *{{ publication.journal-ref }}*,   {{ publication.year }}.
+- [{{ publication.title }}](../articles/{{ publication.link }}){% if publication.authors %} {{ publication.authors }}{% endif %}. *{{ publication.journal-ref }}*,   {{ publication.year }}.
 {% endfor %}
 
 That some of these articles are published in journals affiliated to specific nations does not imply this author's approval of those nations. 
