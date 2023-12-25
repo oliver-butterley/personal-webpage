@@ -38,3 +38,9 @@ Then I was a ricercatore (RTD-B) in the mathematics department of Roma II (Tor V
 - I believe there is a need to assess research on its own merits rather than on the basis of the journal in which the research is published, etc., and so I support the [Declaration on Research Assessment](https://sfdora.org/).
 
 - I support the principle of pay equity – paying employees equitably for substantially similar work. I'm sceptical about the implementation of this in the current system where I work.
+
+## Event organized / co-organized
+
+- [Computer-verified proofs: 48 hours in Rome](https://www.mat.uniroma2.it/butterley/formalisation/), University of Rome Tor Vergata, 24-26 January 2024.
+
+- [Regular and stochastic behaviour in dynamical systems](https://www.mat.uniroma2.it/butterley/PRIN/), University of Rome Tor Vergata, 12-14 February 2020.
