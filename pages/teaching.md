@@ -7,6 +7,8 @@ nav_order: 4
 
 ## 2023-24
 
+- Dynamical Systems (20 hour PhD course)
+- Sistemi Dinamici, Secondo semestre (Corso di Laurea Magistrale in Matematica) 
 - [Mathematical Analysis 2023-24](https://www.mat.uniroma2.it/butterley/MA2/) for Engineering Sciences
 
 ## 2022-23
