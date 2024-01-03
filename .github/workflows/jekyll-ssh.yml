@@ -39,7 +39,7 @@ jobs:
       - name: Deploy to server over ssh
         # Use rsync over ssh to upload to server
         uses: easingthemes/ssh-deploy@v4
-        env:
+        with:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }} 
           ARGS: "-rlgoDzvc -i" # default "-rlgoDzvc -i"
           SOURCE: "./_site/"
