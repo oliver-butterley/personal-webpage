@@ -10,6 +10,7 @@ author:
   name: Oliver Butterley
   email: "butterley@mat.uniroma2.it"
 theme: minima
+google_analytics: G-SKVJLT1BPM
 minima:
   skin: classic
   social_links:
