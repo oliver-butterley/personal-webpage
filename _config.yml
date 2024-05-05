@@ -18,3 +18,7 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.it/citations?user=GcZp0pgAAAAJ" }
     - { platform: arxiv, user_url: "https://arxiv.org/a/butterley_o_1.html" }
     - { platform: mastodon, user_url: "https://mastodon.social/@oliverbutterley" }
+header_pages:
+  - index.md
+  - pages/teaching.md  
+  - pages/publications.md
