@@ -7,7 +7,7 @@ nav_order: 4
 
 ## 2023-24
 
-- [Dynamical Systems](/pages/ds-course-2024) - 20 hour PhD course (2 x 2 hour lectures per week during the 5 week period 13 May - 7 June)
+- [Dynamical Systems](/pages/ds-course-2024) - 20 hour PhD course (2 x 2 hour lectures per week during a 5 week period, starting mid-May)
 - [Introduction to dynamical systems](https://www.mat.uniroma2.it/butterley/DS-intro/), Secondo semestre - 64 hours (Corso di Laurea Magistrale in Matematica) 
 - [Mathematical Analysis 2023-24](https://www.mat.uniroma2.it/butterley/MA2/) for Engineering Sciences
 
