@@ -1,7 +1,7 @@
 - title: Exponential mixing for singular skew-products
-  link: singular-skew.pdf
-  journal-ref: Preprint
-  year: 2023
+  link: https://doi.org/10.1088/1361-6544/ad8333
+  journal-ref: Nonlinearity, Volume 37, Number 11
+  year: 2024
 
 - title: Anisotropic spaces and nil-automorphisms
   link: nil-auto.pdf
@@ -10,9 +10,9 @@
   authors: (with Minsung Kim)
   
 - title: Discontinuities cause essential spectrum on surfaces
-  link: 2DJumps.pdf
-  journal-ref: Preprint
-  year: 2023
+  link: https://doi.org/10.1007/s00023-024-01499-y
+  journal-ref: Ann. Henri Poincaré (2024)
+  year: 2024
   authors: (with Giovanni Canestrari and Roberto Castorrini)
   
 - title: Discontinuities cause essential spectrum
