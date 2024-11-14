@@ -12,7 +12,7 @@ nav_order: 4
 ## 2023-24
 
 - [Introduction to dynamical systems](https://www.mat.uniroma2.it/butterley/DS-intro/), Secondo semestre - 64 hours (Corso di Laurea Magistrale in Matematica) 
-- [Mathematical Analysis 2 2023-24](https://www.mat.uniroma2.it/butterleyarchive/2023/MA2/) for Engineering Sciences
+- [Mathematical Analysis 2 2023-24](https://www.mat.uniroma2.it/butterley/archive/2023/MA2/) for Engineering Sciences
 
 ## 2022-23
 
