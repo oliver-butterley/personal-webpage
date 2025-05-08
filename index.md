@@ -9,7 +9,7 @@ nav_order: 1
 I work in the field of dynamical systems. Most of my research is focussed on the statistical properties of chaotic dynamical systems, particularly the use of functional analytic techniques to investigate these properties and understanding these properties for continuous time dynamical systems.
 See my [research articles](publications/). 
 
-Since 2023 I've also been working in formalization of mathematics using the [Lean Theorem Prover](https://lean-lang.org/) and its [mathematical library](https://leanprover-community.github.io/).
+Since 2023 I've been working in the formalization of mathematics using the [Lean Theorem Prover](https://lean-lang.org/) and its [mathematical library](https://leanprover-community.github.io/).
 
 ## Position
 
