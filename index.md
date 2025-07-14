@@ -7,7 +7,7 @@ nav_order: 1
 ## Research interests
 
 I work in the field of dynamical systems. Most of my research is focussed on the statistical properties of chaotic dynamical systems, particularly the use of functional analytic techniques to investigate these properties and understanding these properties for continuous time dynamical systems.
-See my [research articles](publications/). 
+See my [research articles](publications/).
 
 Since 2023 I've been working in the formalization of mathematics using the [Lean Theorem Prover](https://lean-lang.org/) and its [mathematical library](https://leanprover-community.github.io/).
 
@@ -24,10 +24,10 @@ I'm an associate professor in the [mathematics department](https://www.mat.uniro
 
 I received my PhD from Imperial College London under the supervision of [Stefano Luzzatto](https://stefanoluzzatto.net/). I was a postdoc at UFRJ, Rio de Janeiro under the supervision of Vítor Araújo. Following that I was a postdoc member of the MALADY team at Roma II, Tor Vergata under the supervision of [Carlangelo Liverani](http://www.mat.uniroma2.it/~liverani/).
 
-I was a postdoc at the University of Vienna under the supervision of Henk Bruin. Following that I was a FWF Lise Meitner postdoc at the University of Vienna, project leader of “Statistical Properties of Physical Chaotic Flows” and a member of the Ergodic Theory and Dynamical Systems group. 
+I was a postdoc at the University of Vienna under the supervision of Henk Bruin. Following that I was a FWF Lise Meitner postdoc at the University of Vienna, project leader of “Statistical Properties of Physical Chaotic Flows” and a member of the Ergodic Theory and Dynamical Systems group.
 
 I was a postdoc in the [Mathematics section of ICTP](http://www.ictp.it/research/math).
-Then I was a ricercatore (RTD-B) in the mathematics department of Roma II (Tor Vergata). 
+Then I was a ricercatore (RTD-B) in the mathematics department of Roma II (Tor Vergata).
 
 ## Contact
 
@@ -37,12 +37,6 @@ Then I was a ricercatore (RTD-B) in the mathematics department of Roma II (Tor V
 - Office: 0203 (Dipartimento di matematica)
 
 ![](images/oliver-butterley.jpg)
-
-## Generally
-
-- I believe there is a need to assess research on its own merits rather than on the basis of the journal in which the research is published, etc., and so I support the [Declaration on Research Assessment](https://sfdora.org/).
-
-- I support the principle of pay equity – paying employees equitably for substantially similar work. I'm sceptical about the implementation of this in the current system where I work.
 
 ## Event organized / co-organized
 
