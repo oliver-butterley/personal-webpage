@@ -1,3 +1,9 @@
+- title: Anisotropic spaces and nil-automorphisms
+  link: nil-auto.pdf
+  journal-ref: Nonlinearity 39 035011
+  year: 2026
+  authors: (with Minsung Kim)
+  
 - title: Discontinuous observables as an obstruction for small essential spectral radius
   link: BS25.pdf
   journal-ref: Preprint
@@ -8,12 +14,6 @@
   link: Butterley24.pdf
   journal-ref: Nonlinearity, Volume 37, Number 11
   year: 2024
-
-- title: Anisotropic spaces and nil-automorphisms
-  link: nil-auto.pdf
-  journal-ref: Preprint
-  year: 2023
-  authors: (with Minsung Kim)
   
 - title: Discontinuities cause essential spectrum on surfaces
   link: BCC24.pdf
